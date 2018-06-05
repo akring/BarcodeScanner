@@ -1,0 +1,7 @@
+"SCAN_BARCODE_TITLE" = "扫描条码";
+"BUTTON_CLOSE" = "关闭";
+"BUTTON_SETTINGS" = "设置";
+"INFO_DESCRIPTION_TEXT" = "将条码置于取景窗内，搜索将自动开始。";
+"INFO_LOADING_TITLE" = "正在处理数据...";
+"NO_PRODUCT_ERROR_TITLE" = "数据解析失败";
+"ASK_FOR_PERMISSION_TEXT" = "您必须在设置里面打开相机权限才可以扫描条码。";
